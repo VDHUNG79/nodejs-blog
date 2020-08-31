@@ -1,0 +1,3 @@
+Phương thức GET là yêu cầu lấy dữ liệu từ Server, gửi yêu cầu cần dữ liệu và Server gửi lại dữ liệu
+
+Phương thức POST là gửi dữ liệu lên Server
