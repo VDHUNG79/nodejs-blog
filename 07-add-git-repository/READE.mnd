@@ -1,6 +1,6 @@
 https://nodemon.io - nodemon
 
-Thêm flag để inspect
+Add flag for debugging
 "scripts": {
     "start": "nodemon --inspect index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
