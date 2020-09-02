@@ -1,0 +1,10 @@
+https://www.npmjs.com/package/node-sass - handlebars
+
+npm install node-sass --save-dev
+
+https://www.npmjs.com/package/node-sass - node-sass
+npm install node-sass
+
+npm run watch
+
+"watch": "node-sass --watch src/resources/scss/app.scss src/public/css/app.css",

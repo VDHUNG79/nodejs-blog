@@ -1,3 +1,3 @@
-https://www.npmjs.com/package/morgan - morgan
+https://www.npmjs.com/package/express-handlebars - handlebars
 
-npm install morgan --save-dev
+npm install express-handlebars
