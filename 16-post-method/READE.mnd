@@ -1,0 +1,3 @@
+"express": "^4.17.1", đã tích hợp sẵn bodyParser nên không cần cài đặt
+
+app.use(express.urlencoded());
