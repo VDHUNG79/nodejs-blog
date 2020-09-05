@@ -24,7 +24,13 @@ app.use(express.json());
 // app.use(morgan('combined'));
 
 //  Template Engine
-app.engine('hbs', handlebars({ extname: '.hbs' })); 
+app.engine('hbs', handlebars({
+    extname: '.hbs',
+    helpers: {
+        sum: (a, b) => a + b,
+    }
+})); 
+
 app.set('view engine', 'hbs');
 app.set('views', path.join(__dirname, 'resources', 'views'));
 console.log('PATH: ', path.join(__dirname, 'resources/views'));
