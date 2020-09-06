@@ -1,0 +1,13 @@
+SOFT DELETE
+    - Delete (soft delete)
+    - Restore
+    - Force-delete
+
+https://www.npmjs.com/package/mongoose-delete - Delete
+
+npm install mongoose-delete
+
+1. Create -> POST
+2. Upade -> PUT, PATCH
+3. Delete -> DELETE
+4. Read -> GET
