@@ -1,0 +1,21 @@
+SOFT DELETE
+    - Delete (soft delete)
+    - Restore
+    - Force-delete
+
+https://www.npmjs.com/package/mongoose-delete - Delete
+
+npm install mongoose-delete
+
+1. Create -> POST
+2. Upade -> PUT, PATCH
+3. Delete -> DELETE
+4. Read -> GET
+
+Start 1:16 - 2:10
+Go on: 20:00
+
+Statr 2 - 8:07 - 9:55
+
+Tạo chức năng trong Thùng rác 
+Chác năng toàn vĩnh viễn toàn hoặc khôi phục toàn bộ
